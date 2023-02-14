@@ -11,4 +11,3 @@ class FuncsAux {
         bool init();
         void ler(uint16 data[]);
 };
-#endif
