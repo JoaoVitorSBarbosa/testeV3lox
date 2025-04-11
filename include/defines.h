@@ -4,3 +4,4 @@
 
 #define ADRSS 0x29
 #define XSHUT PA1
+#define SENSOR_QTDY 1
