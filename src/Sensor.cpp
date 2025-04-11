@@ -1,4 +1,4 @@
-#include "../lib/Sensor.h"
+#include "../include/Sensor.h"
 
 Sensor::Sensor(uint8 pin, uint8_t adress) {
     this->pin = pin;
