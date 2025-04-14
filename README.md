@@ -1,4 +1,4 @@
-# TesreV3l0x
+# TesteV3l0x
 
 Um firmware paracontrolar os sensores VL53L0X com um STM32f103c8t6
 
